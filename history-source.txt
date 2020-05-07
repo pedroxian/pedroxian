@@ -1,0 +1,118 @@
+$ history
+    1  net before.nuke ssc.load
+    2  set
+    3  setup
+    4  set
+    5  help
+    6  set
+    7  hashcat.open
+    8  set
+    9  standalone forture
+   10  set
+   11  slave.is -desktop
+   12  set
+   13  times.astract
+   14  set
+   15  stop
+   16  set
+   17  sh-team
+   18  set
+   19  infinity _leap
+   20  set
+   21  leader.comp _leap
+   22  set
+   23  leap
+   24  set
+   25  set playgame
+   26  set
+   27  set olong.asset /connect--ipc.ssc.crack /loading.deshtop
+   28  set
+   29  restate
+   30  set
+   31  set asape.cage
+   32  set
+   33  set sc ui
+   34  set
+   35  set apok
+   36  set
+   37  set hook
+   38  set
+   39  set revert
+   40  set
+   41  set estrape.-void.2 chop.sample /preview _at.dark --os.6:exit
+   42  set
+   43  1982
+   44  set
+   45  set boot
+   46  set
+   47  set clock.reset
+   48  set
+   49  set -os6--lied
+   50  set
+   51  else -parrot/set ...node.js dir//desktop/ROM
+   52  set
+   53  node ROM use KALI
+   54  set
+   55  virde
+   56  set
+   57  nate
+   58  set
+   59  sargent./kliops.mate -execute lite
+   60  set
+   61  declips
+   62  set
+   63  set drotter
+   64  set
+   65  set nschrgxt
+   66  set
+   67  set terminius
+   68  set
+   69  taken
+   70  set
+   71  set ape
+   72  set
+   73  set trd{rephlex
+   74  set
+   75  run ocls
+   76  run apocalyps
+   77  set
+   78  run process ,hyper --congrujuile
+   79  run acellarate/--parrot
+   80  set
+   81  run comphrase
+   82  run voidscape
+   83  run collage
+   84  exit
+   85  run destroyer
+   86  run corona
+   87  set
+   88  run alkemich
+   89  run coppola
+   90  set
+   91  run polichese
+   92  run operation
+   93  run exclape
+   94  set
+   95  run voyager
+   96  run pops
+   97  set overpulse
+   98  run pulse
+   99  run exodus
+  100  run complex-erd
+  101  RUN EXPEDITUR
+  102  run collapses
+  103  EXIT
+  104  run obsecure
+  105  EXIT
+  106  exit
+  107  run mute
+  108  run builder
+  109  run crevid
+  110  set push popect.service -analogon.dc-ac /rotterm.dat
+  111  set
+  112  clear
+  113  run rotterm.data --shark.provise
+  114  run sat
+  115  run proper
+  116  clear
+  117  history
