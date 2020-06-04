@@ -1,0 +1,12 @@
+pause
+
+parametric.get exec.violid line.23 forge.44 unity.3d app.get
+null.get purpose foul schematic.line.12
+
+	{
+	drop.line.22 change pause.get
+	if online -download NET.4.2 FRAMEWORK.get
+	if.line.get app challange.ups
+	}
+
+pause

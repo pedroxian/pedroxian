@@ -1,0 +1,28 @@
+PS C:\Users\pedroxian> 'proshade ---proped.ac2
+>> vitten--made.if self.notu --else.n2 -to.g12
+>> spread.useer -conform.server /gopper
+>> 'run
+At line:4 char:2
++ 'run
++  ~~~
+Unexpected token 'run' in expression or statement.
++ CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
++ FullyQualifiedErrorId : UnexpectedToken
+
+boot.avs /conform .dude _/let.mage if.self
+    root.batch.operation---black .frog /unimog
+    
+        active.confuse -batch.dos/free.dos
+            ibm.act/asus --dell.acer hp.omen
+            
+                factory.up  --tuner.speed..dos
+                
+                    boot.efi/tuner.athlon -to/ryzen
+                        for.i5_else.i3
+                            ease.for (test) {
+                                mute.dos /aprox..leave fl.studio
+                                    ls.script --lightwave/z.brush
+                                    
+                                        cage.9/7.0 --else.shark -whole.blueprints/blackwidow
+                            }
+pause
